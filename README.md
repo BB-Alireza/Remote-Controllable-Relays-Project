@@ -22,3 +22,6 @@ Tips for using the GSM board are as follows:
 
 - When a message is received by the system, the green LED will flash once.
 
+
+![My Remote Image](https://www.dropbox.com/scl/fi/67f7kk85pme1cgy7x72bk/Relays-One.JPG?rlkey=qgjuc3jb2kajy6wuo3384oujl&dl=0)
+
