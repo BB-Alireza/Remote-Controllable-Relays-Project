@@ -14,11 +14,11 @@ Tips for using the GSM board are as follows:
 
 - In order to save the SIM card number, the following command code is used:
 
-*MKE09xxxxxxxxx*
+    *MKE09xxxxxxxxx*
 
 - The command code for commanding the relays is as follows, if x is one, it means it is on, and if x is zero, it means that the corresponding relay is off.
 
-      *MKExxxxxx*
+    *MKExxxxxx*
 
 - When a message is received by the system, the green LED will flash once.
 
